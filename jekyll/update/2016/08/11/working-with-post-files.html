@@ -6,11 +6,11 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>BASHista Worker&#39;s Paradise</title>
-  <meta name="description" content="As a &quot;BASHista&quot;, I like BASH, not KSH, not SH, not powershell, just BASH. And I like to do things with BASH that is normally not suppose to be done in a scri...">
+  <title>Working with post files</title>
+  <meta name="description" content="Creating New Post files This is super quick, I can add content by creating a new POST file, that new file must have YAML Front Matter and other other stuff.">
 
   <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="http:/jorgedlt.github.io/">
+  <link rel="canonical" href="http:/jorgedlt.github.io/jekyll/update/2016/08/11/working-with-post-files.html">
   <link rel="alternate" type="application/rss+xml" title="BASHista Worker&#39;s Paradise" href="http:/jorgedlt.github.io/feed.xml">
 </head>
 
@@ -54,33 +54,31 @@
 
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
-        <div class="home">
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
-  <h1 class="page-heading">Posts</h1>
+  <header class="post-header">
+    <h1 class="post-title" itemprop="name headline">Working with post files</h1>
+    <p class="post-meta"><time datetime="2016-08-11T16:12:17-04:00" itemprop="datePublished">Aug 11, 2016</time></p>
+  </header>
 
-  <ul class="post-list">
-    
-      <li>
-        <span class="post-meta">Aug 11, 2016</span>
+  <div class="post-content" itemprop="articleBody">
+    <h2 id="creating-new-post-files">Creating New Post files</h2>
+<p>This is super quick, I can add content by creating a new POST file, that new file must have YAML Front Matter and other other stuff.</p>
 
-        <h2>
-          <a class="post-link" href="/jekyll/update/2016/08/11/working-with-post-files.html">Working with post files</a>
-        </h2>
-      </li>
-    
-      <li>
-        <span class="post-meta">Aug 11, 2016</span>
+<p>To create a new post, all you need to do is create a file in the _posts directory. How you name files in this folder is important. Jekyll requires blog post files to be named according to the following format:</p>
 
-        <h2>
-          <a class="post-link" href="/jekyll/update/2016/08/11/welcome-to-jekyll.html">Welcome to Jekyll! - Initial Post</a>
-        </h2>
-      </li>
-    
-  </ul>
+<p>YEAR-MONTH-DAY-title.md
+Where YEAR is a four-digit number, MONTH and DAY are both two-digit numbers, and MARKUP is the file extension representing the format used in the file. For example, the following are examples of valid post filenames:z</p>
 
-  <p class="rss-subscribe">subscribe <a href="/feed.xml">via RSS</a></p>
+<p>2011-12-31-new-years-eve-is-awesome.md</p>
 
-</div>
+<h2 id="updating-the-website-structure-itself">Updating the website structure itself</h2>
+
+<p>My process is still a little rocky, and as per github after August 23rd, they will support the jekull (3.2.x). But for now everything seems to be working, reasonably well.</p>
+
+  </div>
+
+</article>
 
       </div>
     </main>

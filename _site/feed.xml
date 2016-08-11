@@ -6,9 +6,36 @@
 </description>
     <link>http:/jorgedlt.github.io/</link>
     <atom:link href="http:/jorgedlt.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 11 Aug 2016 10:50:44 -0400</pubDate>
-    <lastBuildDate>Thu, 11 Aug 2016 10:50:44 -0400</lastBuildDate>
+    <pubDate>Thu, 11 Aug 2016 16:23:12 -0400</pubDate>
+    <lastBuildDate>Thu, 11 Aug 2016 16:23:12 -0400</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Working with post files</title>
+        <description>&lt;h2 id=&quot;creating-new-post-files&quot;&gt;Creating New Post files&lt;/h2&gt;
+&lt;p&gt;This is super quick, I can add content by creating a new POST file, that new file must have YAML Front Matter and other other stuff.&lt;/p&gt;
+
+&lt;p&gt;To create a new post, all you need to do is create a file in the _posts directory. How you name files in this folder is important. Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+
+&lt;p&gt;YEAR-MONTH-DAY-title.md
+Where YEAR is a four-digit number, MONTH and DAY are both two-digit numbers, and MARKUP is the file extension representing the format used in the file. For example, the following are examples of valid post filenames:z&lt;/p&gt;
+
+&lt;p&gt;2011-12-31-new-years-eve-is-awesome.md&lt;/p&gt;
+
+&lt;h2 id=&quot;updating-the-website-structure-itself&quot;&gt;Updating the website structure itself&lt;/h2&gt;
+
+&lt;p&gt;My process is still a little rocky, and as per github after August 23rd, they will support the jekull (3.2.x). But for now everything seems to be working, reasonably well.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 11 Aug 2016 16:12:17 -0400</pubDate>
+        <link>http:/jorgedlt.github.io/jekyll/update/2016/08/11/working-with-post-files.html</link>
+        <guid isPermaLink="true">http:/jorgedlt.github.io/jekyll/update/2016/08/11/working-with-post-files.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
     
       <item>
         <title>Welcome to Jekyll! - Initial Post</title>
