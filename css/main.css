@@ -12,8 +12,8 @@ dl, dd, ol, ul, figure {
  */
 body {
   font: 400 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #111;
-  background-color: #fdfdfd;
+  color: #ddd;
+  background-color: #333;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
   -moz-font-feature-settings: "kern" 1;
@@ -66,12 +66,12 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: #2a7ae2;
+  color: #4CAF50;
   text-decoration: none; }
   a:visited {
-    color: #1756a9; }
+    color: #388E3C; }
   a:hover {
-    color: #111;
+    color: #81C784;
     text-decoration: underline; }
 
 /**
@@ -92,10 +92,11 @@ blockquote {
  */
 pre,
 code {
+  font-family: "Courier New", monospace;
   font-size: 15px;
-  border: 1px solid #e8e8e8;
+  border: 1px solid #666;
   border-radius: 3px;
-  background-color: #eef; }
+  background-color: #444; }
 
 code {
   padding: 1px 5px; }
