@@ -21,6 +21,9 @@ body {
   font-feature-settings: "kern" 1;
   font-kerning: normal; }
 
+h1 {
+  color: #fff; }
+
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
