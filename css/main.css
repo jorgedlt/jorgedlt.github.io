@@ -11,9 +11,9 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  font: 400 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #ddd;
-  background-color: #333;
+  font: 400 16px/1.5 "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  color: #c9d1d9;
+  background-color: #0d1117;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
   -moz-font-feature-settings: "kern" 1;
@@ -21,8 +21,8 @@ body {
   font-feature-settings: "kern" 1;
   font-kerning: normal; }
 
-h1 {
-  color: #fff; }
+h1, h2, h3, h4, h5, h6 {
+  color: #f0f6fc; }
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm
@@ -69,12 +69,12 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: #4CAF50;
+  color: #58a6ff;
   text-decoration: none; }
   a:visited {
-    color: #388E3C; }
+    color: #1f6feb; }
   a:hover {
-    color: #81C784;
+    color: #79c0ff;
     text-decoration: underline; }
 
 /**
@@ -97,9 +97,9 @@ pre,
 code {
   font-family: "Courier New", monospace;
   font-size: 15px;
-  border: 1px solid #666;
-  border-radius: 3px;
-  background-color: #444; }
+  border: 1px solid #30363d;
+  border-radius: 6px;
+  background-color: #161b22; }
 
 code {
   padding: 1px 5px; }
@@ -146,7 +146,7 @@ pre {
   height: 16px;
   vertical-align: middle; }
   .icon > svg path {
-    fill: #828282; }
+    fill: #8b949e; }
 
 /**
  * Site header
@@ -281,7 +281,7 @@ pre {
 
 .post-meta {
   font-size: 14px;
-  color: #828282; }
+  color: #8b949e; }
 
 .post-link {
   display: block;
