@@ -1,6 +1,6 @@
 ---
 title: "50 Years Waiting for ELIZA to Come Alive"
-date: 2025-11-26
+date: 2025-10-26
 author: Jorge Luis de la Torre
 tags: [AI, technology, personal story, OpenCode, DevOps]
 ---
