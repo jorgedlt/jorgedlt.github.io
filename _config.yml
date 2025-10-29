@@ -1,9 +1,8 @@
-title: BASHista Worker's Paradise
+title: Jorge de la Torre - DevOps & Cloud Security Engineer
 email: jorgedlt@gmail.com
 description: >-
-  As a "BASHista", I like BASH, not KSH, not SH, not powershell, just BASH.
-  And I like to do things with BASH that is normally not suppose to be done in a scripting language,
-  like image or binary transformations. It's fun, It's challenging, and it's minimalist.
+  Senior DevOps & Cloud Security Engineer specializing in secure infrastructure, automation, and compliance across Azure, AWS, GCP, and IBM Cloud.
+  Expertise in IaC, CI/CD pipelines, monitoring, and cybersecurity for resilient cloud solutions.
 baseurl: ""
 url: "https://jorgedlt.github.io"
 github_username: jorgedlt
