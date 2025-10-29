@@ -6,8 +6,8 @@ description: >-
   like image or binary transformations. It's fun, It's challenging, and it's minimalist.
 baseurl: ""
 url: "https://jorgedlt.github.io"
-twitter_username: jorgedlt
 github_username: jorgedlt
+linkedin_url: "https://www.linkedin.com/in/jorge-de-la-torre-6668b772/"
 
 # Build settings
 markdown: kramdown
