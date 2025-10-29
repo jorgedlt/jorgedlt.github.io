@@ -23,28 +23,28 @@ Authorized to work in the US for any employer
 ## Experience
 
 ### 2025 – Present  
-**Senior DevOps & Cloud Security Engineer** – Fortress Solutions Group (Dallas, TX)  
+**Senior Cloud Engineer & Security Specialist** – Fortress Solutions Group (Dallas, TX)  
 At Fortress Solutions Group, I design and implement secure, automation-first infrastructure for small and medium-sized businesses, focusing on compliance, cybersecurity, and cloud resilience. My work integrates governance, risk, and compliance (GRC) principles with modern DevOps practices to strengthen client defenses across hybrid and multi-cloud environments.  
 Key responsibilities include architecting and securing infrastructures across Azure, AWS, GCP, and IBM Cloud (including IBM Kubernetes Service), developing Infrastructure-as-Code using Terraform, Ansible, and GitLab CI/CD, and implementing governance frameworks such as NIST and ISO 27001 through compliance-as-code automation. I lead initiatives in cloud security, data governance, and AI risk management while optimizing IT processes to ensure security alignment with business objectives.
 
 ### 2019 – 2025  
-**Software Engineer IV / DevOps / Security** – Dematic (almost 6 years)  
+**Software Engineer IV / Cloud Engineering / Security** – Dematic (almost 6 years)  
 At Dematic, a world leader in robotics, I currently hold the position of Software Engineer IV, focusing on DevOps and Security. Over the past four years, I have been dedicated to building the serverless future with Azure and GCP cloud infrastructure, creating and optimizing CI/CD pipelines, and implementing monitoring and IoT solutions.  
 My key responsibilities include:  
-- DevOps for cloud microservices and serverless architectures in both Azure and GCP platforms.  
-- Streamlining IoT software delivery for a SaaS solution deployed in public clouds through DevOps automation.  
+- Cloud engineering for microservices and serverless architectures in both Azure and GCP platforms.  
+- Streamlining IoT software delivery for a SaaS solution deployed in public clouds through cloud automation.  
 - Actively contributing to the cybersecurity strategy for Dematic's cloud solutions and platforms.  
 
 I am well-versed in a variety of tools and technologies, such as Azure, ARM & azCLI, Terraform, GitLab CI/CD, Atlas/Mongo, and IOTedge, which have been instrumental in delivering innovative solutions for Dematic.
 
 ### 2018 – 2019  
-**Software Engineer III - Cloud PaaS** – Ultimate Software (over 1 year)  
+**Software Engineer III - Cloud Platform** – Ultimate Software (over 1 year)  
 Working as a Software Engineer III for Cloud PaaS at Ultimate Software was an incredibly lucky opportunity for me. Ultimate Software is consistently ranked among the top three companies to work for in the USA, and I was thrilled to be a part of their team.  
 During my time at Ultimate Software, I had the chance to put into action many of the cloud skills and automation tricks I had learned in my previous jobs. I participated in building private infrastructure to support application development, and I was proud to contribute to a company that was at the forefront of cloud technology.  
 Even though I worked remotely for most of my time at Ultimate Software, I always enjoyed traveling to their beautiful campus in South Florida. The atmosphere and energy at the company were truly infectious, and I felt incredibly fortunate to be a part of such an innovative and forward-thinking team.
 
 ### 2016 – 2018  
-**DEVOPS** – Stanley Black & Decker, Inc. (over 2 years)  
+**Cloud Engineering** – Stanley Black & Decker, Inc. (over 2 years)  
 At Stanley Black & Decker, Inc., I passionately embraced my role as a DevOps Engineer, leveraging my love for learning new technologies and innovative approaches to overcome challenges. As a consistent and detail-oriented professional, I focused on gathering input from various sources to effectively troubleshoot and resolve issues.  
 During my tenure at the company, I was instrumental in designing and deploying multiple applications using nearly the entire AWS stack, including EC2, Route53, S3, RDS, DynamoDB, SNS, SQS, and IAM. I prioritized high-availability, fault tolerance, and auto-scaling to deliver robust and efficient solutions. Utilizing Ansible, I automated application deployment and provisioning across different environments, ensuring seamless integration and adaptability.  
 I played an active role in the release cycle of our products across various stages, such as Development, QA, and Production. I also implemented platform monitoring for Java applications and RDS databases using New Relic, and integrated Loggly for system-wide visibility and alerting. As a part of my continuous improvement efforts, I built a Continuous Delivery pipeline with Jenkins, GitHub, and AWS, allowing for automatic image building with each new GitHub branch.  
@@ -56,26 +56,26 @@ During a brief remote engagement with the newly split up HPE, I had the opportun
 This engagement gave me valuable experience working with cutting-edge cloud technologies and working remotely with a team. While it was a brief engagement, it reinforced my passion for working with cloud technology and helped prepare me for future engagements in this field.
 
 ### 2016 – 2016  
-**Cloud DevOps / Enterprise Infrastructure Specialist** – Manheim (Cox Company), Atlanta, GA  
+**Cloud Engineering / Enterprise Infrastructure Specialist** – Manheim (Cox Company), Atlanta, GA  
 Managed infrastructure supporting 1,700+ nodes across hybrid cloud environments, including 100% AWS-based virtual data solutions. Led the transition of legacy AS400 systems to modern database-driven architectures. Specialized in continuous integration using Jenkins pipelines for rapid, seamless updates. Implemented network automation strategies to streamline operations and improve efficiency. Worked extensively with RDS solutions like MySQL and MariaDB to ensure reliable, high-performance data management.  
 As a cloud computing expert, I specialize in building and maintaining virtual data solutions on the 100% Amazon Web Services (AWS) cloud-computing platform. I am highly skilled in continuous integration through the use of Jenkins deployment pipelines, which allows for rapid and seamless updates.
 
 ### 2015 – 2016  
-**Monitoring & Availability Engineer** – The Home Depot's dot COM division (6 months)  
+**Cloud Monitoring & Availability Engineer** – The Home Depot's dot COM division (6 months)  
 As a cloud migration specialist, I played a crucial role in the Home Depot's transition to the public Google Cloud Project. Utilizing my expertise in cloud infrastructure and migration strategies, I worked closely with the team to ensure a seamless and efficient transition to the new platform.  
 My responsibilities included assessing the current infrastructure, designing and implementing the migration plan, and optimizing the cloud environment to meet the unique needs of the organization. Through meticulous planning and execution, I successfully migrated critical applications and data to the new platform, ensuring minimal disruption to daily operations.  
 My commitment to quality and attention to detail, coupled with my deep knowledge of cloud technologies, allowed me to deliver an exceptional result that exceeded expectations.
 
 ### 2015 – 2015  
-**DEVOPS - Senior System Engineer** – Cox Communications (11 months)  
+**Cloud Engineering - Senior System Engineer** – Cox Communications (11 months)  
 AWS, VMware & Content Delivery Network (CDN)
 
 ### 2014 – 2015  
-**DEVOPS - Virtual Systems Architect** – ParsSoft Solutions LLC (11 months)  
+**Cloud Engineering - Virtual Systems Architect** – ParsSoft Solutions LLC (11 months)  
 Virtual Systems Admin / Architect — Compliance engineering and cyber security project for ParsSoft's key clients ensuring integrity of their core systems. — Ongoing Consulting.
 
 ### 2013 – 2015  
-**DEVOPS - Senior Systems Engineer** – Turner Broadcasting System (almost 2 years)  
+**Cloud Engineering - Senior Systems Engineer** – Turner Broadcasting System (almost 2 years)  
 During my time at the CNN center in their A.T.O.M. division, I had the exciting opportunity to work on delivering live video content to the web from all of Turner's properties, including CNN, HLN, TBS, TNT, Cartoon Network, and particularly sports with NBA, NCAA, and the PGA. My role in the team was focused on the latest technology in video encoding and digital media, ensuring the delivery of high-quality content to the viewer.  
 While this experience was vastly different from my time as a world nomad traveler at IDHASOFT, it was equally thrilling. The fast-paced environment of digital media for sports and popular entertainment felt like a reboot, and I was excited to dive headfirst into the newest tech and contribute my skills to the team.
 
