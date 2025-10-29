@@ -56,27 +56,19 @@
       <div class="wrapper">
         <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+   <h1 class="page-heading">Posts</h1>
 
-  <ul class="post-list">
-    
-      <li>
-        <span class="post-meta">Aug 11, 2016</span>
+   <ul class="post-list">
+     {% for post in site.posts %}
+       <li>
+         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-        <h2>
-          <a class="post-link" href="/jekyll/update/2016/08/11/working-with-post-files.html">Working with post files</a>
-        </h2>
-      </li>
-    
-      <li>
-        <span class="post-meta">Aug 11, 2016</span>
-
-        <h2>
-          <a class="post-link" href="/jekyll/update/2016/08/11/welcome-to-jekyll.html">Welcome to Jekyll! - Initial Post</a>
-        </h2>
-      </li>
-    
-  </ul>
+         <h2>
+           <a class="post-link" href="{{ post.url }}">{{ post.title }}</a>
+         </h2>
+       </li>
+     {% endfor %}
+   </ul>
 
   <p class="rss-subscribe">subscribe <a href="/feed.xml">via RSS</a></p>
 

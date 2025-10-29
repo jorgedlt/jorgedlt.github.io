@@ -1,0 +1,17 @@
+title: BASHista Worker's Paradise
+email: jorgedlt@gmail.com
+description: >-
+  As a "BASHista", I like BASH, not KSH, not SH, not powershell, just BASH.
+  And I like to do things with BASH that is normally not suppose to be done in a scripting language,
+  like image or binary transformations. It's fun, It's challenging, and it's minimalist.
+baseurl: ""
+url: "https://jorgedlt.github.io"
+twitter_username: jorgedlt
+github_username: jorgedlt
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: minima
+plugins:
+  - jekyll-feed
