@@ -23,4 +23,4 @@ AI doesn’t just answer questions. It teaches you how to ask better ones. And s
 
 ---
 
-*Jorge Luis de la Torre — I put the C in GRC. I bring compliance to the table.*
+*Jorge Luis de la Torre. I put the C in GRC. I bring compliance to the table.*

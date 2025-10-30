@@ -25,4 +25,4 @@ That, to me, is worth celebrating.
 
 ---
 
-*Jorge Luis de la Torre — I put the C in GRC. I bring compliance to the table.*
+*Jorge Luis de la Torre. I put the C in GRC. I bring compliance to the table.*

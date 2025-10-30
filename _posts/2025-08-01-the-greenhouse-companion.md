@@ -19,8 +19,8 @@ The thing about plant care is that it’s slow feedback. You can make a mistake 
 
 Sometimes, when I walk into the greenhouse early in the morning, I check the light, feel the humidity, and think, somewhere in the background, an AI knows this pattern now. And that’s strangely comforting. It’s not farming by formula; it’s farming with awareness.
 
-We once relied on the almanac to tell us when to plant by the moon. Now, we have an almanac that learns our soil, our light, and our mistakes—and helps us get better, season by season.
+We once relied on the almanac to tell us when to plant by the moon. Now, we have an almanac that learns our soil, our light, and our mistakes. And helps us get better, season by season.
 
 ---
 
-*Jorge Luis de la Torre — I put the C in GRC. I bring compliance to the table.*
+*Jorge Luis de la Torre. I put the C in GRC. I bring compliance to the table.*

@@ -17,8 +17,8 @@ The best part is the ongoing log. Every test, every change, every observation. O
 
 The old way of keeping an aquarium was intuition plus patience. The new way adds interpretation. AI isn’t replacing the art—it’s refining the craft. The fish still rely on your instincts. But now, you have a second pair of eyes watching for the small things before they become big problems.
 
-It turns out that maintaining balance—whether in a tank or in life—is mostly about noticing. And AI, at its best, helps you notice more.
+It turns out that maintaining balance. Whether in a tank or in life. Is mostly about noticing. And AI, at its best, helps you notice more.
 
 ---
 
-*Jorge Luis de la Torre — I put the C in GRC. I bring compliance to the table.*
+*Jorge Luis de la Torre. I put the C in GRC. I bring compliance to the table.*

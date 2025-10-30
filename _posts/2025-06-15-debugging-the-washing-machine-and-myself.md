@@ -19,8 +19,8 @@ What struck me wasn’t that I’d fixed a washing machine. It was that I’d pa
 
 We often talk about AI as something distant or abstract, but moments like this make it very real. It’s not the replacement of expertise—it’s the democratization of it. It’s giving ordinary users the ability to engage with the systems around them in a deeper way.
 
-So, yes, before you ask—I did try unplugging it first. You’re welcome.
+So, yes, before you ask. I did try unplugging it first. You’re welcome.
 
 ---
 
-*Jorge Luis de la Torre — I put the C in GRC. I bring compliance to the table.*
+*Jorge Luis de la Torre. I put the C in GRC. I bring compliance to the table.*

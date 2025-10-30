@@ -21,8 +21,8 @@ When I joked later that I felt like Dr. Doolittle, it wasn’t far off. I wasn�
 
 This, I think, is the quiet revolution happening beneath all the AI headlines. It’s not just automation or code generation. It’s translation. It’s communication. It’s closing the gap between what we use and how we understand it.
 
-The next time your car flashes that orange warning, think of it less as a threat and more as an opening. Somewhere in that blinking light is a story waiting to be told—and now, we finally have a way to hear it.
+The next time your car flashes that orange warning, think of it less as a threat and more as an opening. Somewhere in that blinking light is a story waiting to be told. And now, we finally have a way to hear it.
 
 ---
 
-*Jorge Luis de la Torre — I put the C in GRC. I bring compliance to the table.*
+*Jorge Luis de la Torre. I put the C in GRC. I bring compliance to the table.*
