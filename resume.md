@@ -4,6 +4,8 @@ title: Resume
 permalink: /resume/
 ---
 
+<img src="/images/041-aUVGMLkoy-E.jpeg" alt="Jorge Luis de la Torre professional headshot" width="120" align="left" style="border:1px solid #ccc; border-radius:4px; margin-right:10px;">
+
 # Jorge de la Torre
 
 Dallas, GA 30132 | jorgedlt@gmail.com | +1 312-612-9113  
