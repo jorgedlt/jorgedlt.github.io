@@ -25,9 +25,9 @@ Authorized to work in the US for any employer
 ## Experience
 
 ### 2025 – Present  
-**Senior Cloud Engineer & Security Specialist** – Fortress Solutions Group (Dallas, TX)  
-At Fortress Solutions Group, I design and implement secure, automation-first infrastructure for small and medium-sized businesses, focusing on compliance, cybersecurity, and cloud resilience. My work integrates governance, risk, and compliance (GRC) principles with modern DevOps practices to strengthen client defenses across hybrid and multi-cloud environments.  
-Key responsibilities include architecting and securing infrastructures across Azure, AWS, GCP, and IBM Cloud (including IBM Kubernetes Service), developing Infrastructure-as-Code using Terraform, Ansible, and GitLab CI/CD, and implementing governance frameworks such as NIST and ISO 27001 through compliance-as-code automation. I lead initiatives in cloud security, data governance, and AI risk management while optimizing IT processes to ensure security alignment with business objectives.
+**Independent Consultant** – ItchySoft  
+Independent consultant focused on practical retail tools and prototype sprints, with experience across cloud platforms, performance, and hands-on systems, helping teams build things that actually work on the floor and sharing the work through social and local community projects.  
+The current work builds on a long background in cloud engineering and security: designing and automating infrastructure across Azure, AWS, GCP, and IBM Cloud, building CI/CD pipelines with Terraform, Ansible, and GitLab, and working within governance frameworks such as NIST and ISO 27001. That experience stays in the toolkit. The focus now is practical tools and working prototypes for real operations.
 
 ### 2019 – 2025  
 **Software Engineer IV / Cloud Engineering / Security** – Dematic (almost 6 years)  
